@@ -38,3 +38,6 @@ vendor/
 # Ignore specific files
 config.php
 .htaccess
+
+administrator
+17ikcqig%REA%H^t##
